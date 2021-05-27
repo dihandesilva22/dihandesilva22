@@ -1,4 +1,6 @@
-
+@font-face {
+    font-family: "Parry Hotter";src:url('ParryHotter.ttf');
+}
 a,
 a:focus,
 a:hover {
