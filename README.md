@@ -1,3 +1,3 @@
 # dihandesilva22.github.io
-HogwartsSchoolofComputing
+Hogwarts School of Computing
 
