@@ -126,10 +126,10 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     /*width:100%;*/
-     margin-top: 400px;
+     margin-top: 350px;
 
     color:#313131;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
     /*position: absolute;*/
     -webkit-animation:colorchange 20s infinite alternate;
